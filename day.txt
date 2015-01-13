@@ -1,2 +1,4 @@
-今天星期一
+﻿今天星期一
 today is a Tuesday
+今天星期二
+
